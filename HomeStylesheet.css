@@ -1,6 +1,6 @@
 h1 {
 	font-size: 70px; 
-	color: #;
+	color: #000000;
 }
 
 
@@ -26,7 +26,7 @@ div.header {
 
 div.navbar {
 	height: 30px;
-	background-color: #99dfff;
+	background-color: #;
 }
 
 div.body {
@@ -48,4 +48,8 @@ div.sidebar {
 div.footer {
 	height: 100px;
 	background-color: #ffe6b3;
+}
+
+body {
+	background-color: #889184 
 }
