@@ -15,9 +15,18 @@ div.all {
 
 div.header {
 	height: 200px;
+<<<<<<< HEAD
 	background-color: #70A288;
 	color: #0D1344;
 	font-size:40px;
+=======
+	background-color: #ffcccc;
+	color:black;
+	font-size:20px;
+	font-family:Times;
+	color:blue;
+	font-size:23px;
+>>>>>>> origin/master
 	font-family:Impact;
 }
 
@@ -39,7 +48,12 @@ div.content {
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
+<<<<<<< HEAD
 	background-color: #70A288;
+=======
+	background-color: #ccccff;
+	min-height: 186px;
+>>>>>>> origin/master
 }
 
 div.footer {
