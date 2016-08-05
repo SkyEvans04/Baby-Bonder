@@ -15,24 +15,16 @@ div.all {
 
 div.header {
 	height: 200px;
-<<<<<<< HEAD
-	background-color: #70A288;
+	background-color: #66b3ff;
 	color: #0D1344;
 	font-size:40px;
-=======
-	background-color: #ffcccc;
-	color:black;
-	font-size:20px;
-	font-family:Times;
-	color:blue;
-	font-size:23px;
->>>>>>> origin/master
+	height: 150px;
 	font-family:Impact;
 }
 
 div.navbar {
 	height: 30px;
-	background-color: #70A288;
+	background-color: #66b3ff;
 }
 
 div.body {
@@ -42,23 +34,22 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #70A288;
+	background-color: #66b3ff;
+	font-size:21px;
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-<<<<<<< HEAD
-	background-color: #70A288;
-=======
-	background-color: #ccccff;
+	background-color: #66b3ff;
 	min-height: 186px;
->>>>>>> origin/master
+	font-size: 21px;
+
 }
 
 div.footer {
 	height: 100px;
-	background-color: #70A288;
+	background-color: #66b3ff;
 	font-size:10px;
 }
 
@@ -73,5 +64,5 @@ img.robot {
 }
 
 body {
-	background-color: #70A288; 
+	background-color: #66b3ff; 
 }
