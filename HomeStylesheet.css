@@ -1,7 +1,13 @@
 h1 {
 	font-size: 70px; 
-	color: #000000;
+	color: #D67A5C;
 }
+
+h3 {
+	font-size: 50px; 
+	color: #70A288;
+}
+
 
 
 * {
@@ -21,7 +27,7 @@ div.all {
 
 div.header {
 	height: 200px;
-	background-color: #ffcccc;
+	background-color: #;
 }
 
 div.navbar {
@@ -51,5 +57,5 @@ div.footer {
 }
 
 body {
-	background-color: #889184 
+	background-color: #DAB785 
 }
