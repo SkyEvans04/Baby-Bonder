@@ -66,3 +66,8 @@ img.robot {
 body {
 	background-color: #66b3ff; 
 }
+
+a.headerlink {
+	padding-right:20px;
+	text-decoration: none;
+}
