@@ -1,11 +1,11 @@
 h1 {
 	font-size: 70px; 
-	color: #D67A5C;
+	color: #031D44;
 }
 
 h3 {
 	font-size: 50px; 
-	color: #70A288;
+	color: #000000;
 }
 
 
@@ -57,5 +57,5 @@ div.footer {
 }
 
 body {
-	background-color: #DAB785 
+	background-color: #70A288; 
 }
