@@ -58,3 +58,8 @@ img.robot {
 	margin-right:auto;
 	display:block;
 }
+
+a.headerlink {
+	padding-right:20px;
+	text-decoration: none;
+}
